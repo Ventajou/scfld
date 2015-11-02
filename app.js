@@ -13,12 +13,6 @@ program
   .description('list the available plugins')
   .action(require('./lib/commands/list.js'));
 
-// program
-//   .command('search [name]')
-//   .alias('s')
-//   .description('search the npm repository for available plugins')
-//   .action(require('./lib/commands/search.js'));
-
 program
   .command('init <name>')
   .description('initializes a new project using the given plugin')
