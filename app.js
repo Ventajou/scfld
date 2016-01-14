@@ -5,7 +5,7 @@ var clc = require('cli-color');
 console.log(clc.blue.bold('\n  Scfld - quick project scaffolding'));
 
 program
-  .version('0.0.1');
+  .version('0.0.2');
 
 program
   .command('list')
