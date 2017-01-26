@@ -1,6 +1,6 @@
 {
   "name": "scfld",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "A simple scaffolding utility for web projects",
   "preferGlobal": true,
   "repository": {
